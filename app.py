@@ -227,7 +227,7 @@ def load_data(file):
 # ==============================
 # PAGE TITLE
 # ==============================
-st.title("School Accessibility Dashboard - Decision Support System")
+st.title("School Accessibility Dashboard")
 
 if uploaded_file is None:
     st.info("👈 Upload a grid data CSV from the sidebar to load the dashboard.")
